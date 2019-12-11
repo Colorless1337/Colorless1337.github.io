@@ -1,0 +1,17 @@
+.header{
+    background-color: blue;
+    height: 100px;
+    
+}
+.menu{
+    background-color: rgb(152, 194, 0);
+}
+.content{
+    background-color: cadetblue;
+}
+.footer{
+    background-color: darkgreen;
+    color: darksalmon;
+    height: 50px;
+    text-align: center;
+}
